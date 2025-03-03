@@ -1,0 +1,112 @@
+[
+    {
+        "id": 41,
+        "name": "Andrew Burton",
+        "email": "calvin49@example.com",
+        "address": "8021 Jorge Overpass\nLake Jasminefurt, OR 27951",
+        "phone": "2372586236",
+        "date_of_birth": "1948-03-27",
+        "company": "Lewis PLC",
+        "salary": 83463.28,
+        "is_active": false
+    },
+    {
+        "id": 42,
+        "name": "Jennifer Jones",
+        "email": "phamdonald@example.net",
+        "address": "USCGC Williamson\nFPO AP 97306",
+        "phone": "842-724-8857x42708",
+        "date_of_birth": "1975-02-28",
+        "company": "Baker-Allen",
+        "salary": 102799.26,
+        "is_active": true
+    },
+    {
+        "id": 43,
+        "name": "Mark Olson",
+        "email": "trowland@example.net",
+        "address": "51109 Johnson Villages\nRandallburgh, VI 23550",
+        "phone": "(576)702-1130x620",
+        "date_of_birth": "1952-06-10",
+        "company": "Thompson Group",
+        "salary": 86774.42,
+        "is_active": true
+    },
+    {
+        "id": 44,
+        "name": "Crystal Evans",
+        "email": "taylorruth@example.com",
+        "address": "8648 Lopez Divide\nMendozamouth, ND 59782",
+        "phone": "(550)384-2788x64499",
+        "date_of_birth": "1973-05-10",
+        "company": "Lee-Obrien",
+        "salary": 40614.88,
+        "is_active": true
+    },
+    {
+        "id": 45,
+        "name": "Jessica Delgado",
+        "email": "joseph40@example.org",
+        "address": "PSC 9625, Box 4182\nAPO AE 75153",
+        "phone": "(745)582-7150x89713",
+        "date_of_birth": "1966-04-22",
+        "company": "Lyons, Wall and Adams",
+        "salary": 72254.64,
+        "is_active": false
+    },
+    {
+        "id": 46,
+        "name": "Michael Simpson",
+        "email": "vanessa31@example.com",
+        "address": "0571 Gabriel Prairie\nMaddoxside, AS 37231",
+        "phone": "671-724-2674x9175",
+        "date_of_birth": "1976-06-22",
+        "company": "Logan, Alvarez and Flores",
+        "salary": 108890.7,
+        "is_active": true
+    },
+    {
+        "id": 47,
+        "name": "David Strong",
+        "email": "tracey40@example.net",
+        "address": "61716 Morgan Avenue Suite 058\nLake Raymondshire, MN 01692",
+        "phone": "(298)685-4953x67991",
+        "date_of_birth": "1962-09-18",
+        "company": "Edwards, Contreras and Alvarez",
+        "salary": 53335.67,
+        "is_active": false
+    },
+    {
+        "id": 48,
+        "name": "Elizabeth Saunders",
+        "email": "nicholas27@example.com",
+        "address": "0271 Reynolds Circle\nBarbaratown, SD 43150",
+        "phone": "479-818-8502x026",
+        "date_of_birth": "1999-01-18",
+        "company": "Thornton, Young and Rodriguez",
+        "salary": 106892.98,
+        "is_active": true
+    },
+    {
+        "id": 49,
+        "name": "Brian Miller",
+        "email": "jennifergomez@example.com",
+        "address": "Unit 6645 Box 0245\nDPO AE 66757",
+        "phone": "(528)571-1649",
+        "date_of_birth": "1955-10-29",
+        "company": "Byrd Ltd",
+        "salary": 116194.33,
+        "is_active": false
+    },
+    {
+        "id": 50,
+        "name": "David Carpenter",
+        "email": "denisesimmons@example.net",
+        "address": "PSC 8988, Box 3107\nAPO AE 67869",
+        "phone": "(296)918-9602",
+        "date_of_birth": "1989-12-25",
+        "company": "Harrison-Medina",
+        "salary": 119528.85,
+        "is_active": false
+    }
+]

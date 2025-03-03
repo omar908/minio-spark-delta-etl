@@ -1,0 +1,112 @@
+[
+    {
+        "id": 81,
+        "name": "Brian Jackson",
+        "email": "xhenderson@example.net",
+        "address": "6960 Thomas Branch Apt. 182\nJoyborough, AZ 54128",
+        "phone": "3175611178",
+        "date_of_birth": "1950-03-31",
+        "company": "Taylor, Reed and Osborne",
+        "salary": 100429.71,
+        "is_active": true
+    },
+    {
+        "id": 82,
+        "name": "Carol Mcpherson",
+        "email": "sethrasmussen@example.net",
+        "address": "269 Elizabeth Oval Apt. 475\nWayneview, PW 16541",
+        "phone": "3352028792",
+        "date_of_birth": "1962-04-10",
+        "company": "Shaw Inc",
+        "salary": 75320.71,
+        "is_active": false
+    },
+    {
+        "id": 83,
+        "name": "Candice Bush",
+        "email": "halljose@example.org",
+        "address": "28817 Anderson Glen\nEast Nicholashaven, AS 36817",
+        "phone": "512.685.7885x3863",
+        "date_of_birth": "1957-04-19",
+        "company": "King Inc",
+        "salary": 58433.82,
+        "is_active": false
+    },
+    {
+        "id": 84,
+        "name": "Chad Larson",
+        "email": "deannawilson@example.net",
+        "address": "6436 James Manors\nKellyview, IL 31571",
+        "phone": "4634762532",
+        "date_of_birth": "1951-08-07",
+        "company": "Cruz, Martinez and Moore",
+        "salary": 76824.92,
+        "is_active": false
+    },
+    {
+        "id": 85,
+        "name": "Melissa Turner",
+        "email": "bgibbs@example.org",
+        "address": "9744 Chapman Lodge Apt. 154\nPort Keith, NM 58526",
+        "phone": "001-645-321-9020x8733",
+        "date_of_birth": "1963-10-23",
+        "company": "Lowe-Hicks",
+        "salary": 58798.88,
+        "is_active": false
+    },
+    {
+        "id": 86,
+        "name": "Monique Davis",
+        "email": "veronica57@example.org",
+        "address": "15573 Werner Extensions\nKelleyfort, MO 15249",
+        "phone": "448-988-1065x608",
+        "date_of_birth": "1970-03-25",
+        "company": "Shepherd-Murray",
+        "salary": 96334.86,
+        "is_active": false
+    },
+    {
+        "id": 87,
+        "name": "Devin Walker",
+        "email": "princejamie@example.com",
+        "address": "48816 Patrick Corners\nNorth Marissa, MA 03030",
+        "phone": "653-756-3037",
+        "date_of_birth": "1990-05-24",
+        "company": "Marsh-Harrison",
+        "salary": 110231.52,
+        "is_active": false
+    },
+    {
+        "id": 88,
+        "name": "Alexandra Hoffman",
+        "email": "kharper@example.com",
+        "address": "8031 Alex Hill Apt. 742\nDanielston, NC 83990",
+        "phone": "674.401.0067",
+        "date_of_birth": "1979-04-22",
+        "company": "Sanchez-Richards",
+        "salary": 63340.92,
+        "is_active": false
+    },
+    {
+        "id": 89,
+        "name": "Jessica Brennan MD",
+        "email": "perrytiffany@example.net",
+        "address": "779 Margaret Union\nNorth Robertland, TN 20998",
+        "phone": "3807182782",
+        "date_of_birth": "1960-12-07",
+        "company": "Ramirez-Raymond",
+        "salary": 87032.16,
+        "is_active": true
+    },
+    {
+        "id": 90,
+        "name": "Antonio Davis",
+        "email": "richardsonandrew@example.net",
+        "address": "661 Moore Shoals Suite 671\nPort Laura, RI 66301",
+        "phone": "5726762062",
+        "date_of_birth": "1988-02-12",
+        "company": "Hopkins-Guerra",
+        "salary": 93496.38,
+        "is_active": false
+    }
+]

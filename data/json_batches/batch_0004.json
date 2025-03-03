@@ -1,0 +1,112 @@
+[
+    {
+        "id": 31,
+        "name": "Brandy Lee",
+        "email": "larrymedina@example.org",
+        "address": "920 Joseph Drives\nSouth Coltonshire, ID 91199",
+        "phone": "+1-705-469-4089x6796",
+        "date_of_birth": "1969-01-20",
+        "company": "Riley, Dennis and Gross",
+        "salary": 100036.87,
+        "is_active": false
+    },
+    {
+        "id": 32,
+        "name": "Heidi Lee",
+        "email": "williamsjason@example.net",
+        "address": "07844 Heather Alley Apt. 984\nAndersonbury, AR 87198",
+        "phone": "001-951-583-9950x75660",
+        "date_of_birth": "1997-02-23",
+        "company": "Reid Group",
+        "salary": 84862.84,
+        "is_active": false
+    },
+    {
+        "id": 33,
+        "name": "Charlotte Jensen",
+        "email": "paul39@example.net",
+        "address": "730 Carolyn Spring\nSouth Daniel, NH 85642",
+        "phone": "(980)459-5856x56383",
+        "date_of_birth": "1989-06-21",
+        "company": "Wilson-Mullen",
+        "salary": 48575.81,
+        "is_active": true
+    },
+    {
+        "id": 34,
+        "name": "Shannon Gray",
+        "email": "stephanie67@example.net",
+        "address": "1152 Thomas Parks\nReynoldschester, NV 04641",
+        "phone": "+1-566-296-9334x53967",
+        "date_of_birth": "1952-05-10",
+        "company": "Byrd-Vega",
+        "salary": 57488.0,
+        "is_active": true
+    },
+    {
+        "id": 35,
+        "name": "Carly Hopkins",
+        "email": "collinserik@example.org",
+        "address": "906 Mitchell Flats Apt. 775\nWeaverburgh, CT 70953",
+        "phone": "3377353935",
+        "date_of_birth": "1957-12-21",
+        "company": "Ruiz-Mendoza",
+        "salary": 96514.91,
+        "is_active": false
+    },
+    {
+        "id": 36,
+        "name": "Joshua Rosario",
+        "email": "mendozaphillip@example.net",
+        "address": "02333 Laurie Mountains Apt. 926\nNorth Christyland, MT 81432",
+        "phone": "766-654-3217x6558",
+        "date_of_birth": "1991-06-02",
+        "company": "Cox-Gray",
+        "salary": 112367.7,
+        "is_active": true
+    },
+    {
+        "id": 37,
+        "name": "Laurie Weeks",
+        "email": "kaylee38@example.net",
+        "address": "458 Tammy Divide\nEast Williamchester, WY 77295",
+        "phone": "893-564-2532",
+        "date_of_birth": "2004-10-25",
+        "company": "Mays Ltd",
+        "salary": 53227.9,
+        "is_active": false
+    },
+    {
+        "id": 38,
+        "name": "Louis Harris",
+        "email": "jeffrey79@example.com",
+        "address": "7021 Waters Vista\nSouth Vickie, MD 79146",
+        "phone": "001-378-778-5169x61178",
+        "date_of_birth": "1960-03-24",
+        "company": "Bradley, Gray and Tran",
+        "salary": 68770.44,
+        "is_active": false
+    },
+    {
+        "id": 39,
+        "name": "Patricia Wheeler",
+        "email": "andrew00@example.com",
+        "address": "82688 Rebecca Course Apt. 832\nArcherton, MS 25160",
+        "phone": "(594)487-8323x2456",
+        "date_of_birth": "1972-07-22",
+        "company": "Wright-Ford",
+        "salary": 88700.52,
+        "is_active": false
+    },
+    {
+        "id": 40,
+        "name": "Donald Mathis",
+        "email": "dakotamyers@example.org",
+        "address": "USNV Hayes\nFPO AE 50205",
+        "phone": "001-766-488-6344x386",
+        "date_of_birth": "1987-02-08",
+        "company": "Burns Ltd",
+        "salary": 73808.91,
+        "is_active": false
+    }
+]

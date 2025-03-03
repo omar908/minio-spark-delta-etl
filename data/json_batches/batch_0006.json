@@ -1,0 +1,112 @@
+[
+    {
+        "id": 51,
+        "name": "Teresa Maxwell",
+        "email": "reginaldlewis@example.org",
+        "address": "421 Kimberly Brook\nLake Peggy, KY 84521",
+        "phone": "424.254.5474x328",
+        "date_of_birth": "1978-07-12",
+        "company": "Jones Ltd",
+        "salary": 76041.26,
+        "is_active": false
+    },
+    {
+        "id": 52,
+        "name": "Mr. William Chavez DDS",
+        "email": "langjohn@example.net",
+        "address": "7325 Andrew Plain\nLoristad, KY 86417",
+        "phone": "+1-529-991-1550x34901",
+        "date_of_birth": "1952-05-06",
+        "company": "Mitchell PLC",
+        "salary": 41458.43,
+        "is_active": false
+    },
+    {
+        "id": 53,
+        "name": "Jessica Montgomery",
+        "email": "jose51@example.com",
+        "address": "7632 Allen Street\nNew Robert, FM 40180",
+        "phone": "001-704-904-0842",
+        "date_of_birth": "1988-02-22",
+        "company": "Ferguson, Murphy and Ballard",
+        "salary": 41837.93,
+        "is_active": false
+    },
+    {
+        "id": 54,
+        "name": "Jason Johnson",
+        "email": "harmonchristine@example.net",
+        "address": "2558 Donald Squares Suite 011\nNorth Shaneshire, MI 83966",
+        "phone": "+1-878-681-8072x621",
+        "date_of_birth": "1967-10-31",
+        "company": "Lopez Group",
+        "salary": 66830.5,
+        "is_active": true
+    },
+    {
+        "id": 55,
+        "name": "Jason Rasmussen",
+        "email": "jeffreyjohnson@example.net",
+        "address": "609 Alexander Square\nDavisfort, SC 20655",
+        "phone": "(474)816-9998",
+        "date_of_birth": "1945-05-22",
+        "company": "Gibbs-Porter",
+        "salary": 111969.36,
+        "is_active": false
+    },
+    {
+        "id": 56,
+        "name": "Nathan Marshall",
+        "email": "timothybuchanan@example.net",
+        "address": "0721 Cole Brooks Apt. 965\nEast Samantha, PW 15531",
+        "phone": "(314)805-7595",
+        "date_of_birth": "1993-01-20",
+        "company": "Thomas Ltd",
+        "salary": 35488.75,
+        "is_active": false
+    },
+    {
+        "id": 57,
+        "name": "Abigail Bentley",
+        "email": "fandrews@example.org",
+        "address": "5912 Christina Way\nGuyborough, AR 70043",
+        "phone": "824.733.9948x87185",
+        "date_of_birth": "1988-10-22",
+        "company": "Pace Group",
+        "salary": 39166.07,
+        "is_active": true
+    },
+    {
+        "id": 58,
+        "name": "Megan Gibson",
+        "email": "ydavis@example.com",
+        "address": "1057 Peggy Stream Suite 574\nMorganberg, MS 22397",
+        "phone": "+1-924-801-7989",
+        "date_of_birth": "1967-06-20",
+        "company": "Davis Inc",
+        "salary": 65992.83,
+        "is_active": true
+    },
+    {
+        "id": 59,
+        "name": "Monica Thomas",
+        "email": "benjaminromero@example.net",
+        "address": "2576 Perez Landing\nVazquezland, FL 12138",
+        "phone": "(906)602-2729x57473",
+        "date_of_birth": "2001-04-27",
+        "company": "Hughes, Phelps and Garcia",
+        "salary": 100022.51,
+        "is_active": true
+    },
+    {
+        "id": 60,
+        "name": "Kathleen Cain",
+        "email": "williamsstephanie@example.com",
+        "address": "PSC 2620, Box 4261\nAPO AP 45337",
+        "phone": "001-859-214-6867",
+        "date_of_birth": "1976-07-14",
+        "company": "Morton Inc",
+        "salary": 118066.12,
+        "is_active": false
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "id": 71,
+        "name": "Carla Martinez",
+        "email": "lisa74@example.org",
+        "address": "693 Tucker Plains Apt. 308\nLake Valerietown, VT 67261",
+        "phone": "(859)579-1957x601",
+        "date_of_birth": "1997-04-15",
+        "company": "Lawson Ltd",
+        "salary": 58218.07,
+        "is_active": false
+    },
+    {
+        "id": 72,
+        "name": "Aaron Farmer",
+        "email": "rebecca71@example.net",
+        "address": "727 Lewis Centers\nSouth Mariahtown, CO 88909",
+        "phone": "914.223.8004x5693",
+        "date_of_birth": "1956-12-26",
+        "company": "Stephens-Morgan",
+        "salary": 115739.01,
+        "is_active": false
+    },
+    {
+        "id": 73,
+        "name": "Kelly Clark",
+        "email": "kennethrhodes@example.net",
+        "address": "7136 Ellis Coves\nBrookemouth, CO 39038",
+        "phone": "(401)880-2760x2741",
+        "date_of_birth": "1950-03-28",
+        "company": "Mendoza Inc",
+        "salary": 54039.47,
+        "is_active": false
+    },
+    {
+        "id": 74,
+        "name": "Michael Brown",
+        "email": "marc56@example.com",
+        "address": "1380 Ware Shoals Apt. 645\nTravishaven, NE 96523",
+        "phone": "(822)620-5165",
+        "date_of_birth": "2001-05-06",
+        "company": "Young LLC",
+        "salary": 94726.29,
+        "is_active": true
+    },
+    {
+        "id": 75,
+        "name": "Jason Holloway",
+        "email": "colin93@example.com",
+        "address": "59771 Kelsey Drive\nMuellermouth, IL 86081",
+        "phone": "613-425-4691",
+        "date_of_birth": "1966-10-03",
+        "company": "Mcneil-Hernandez",
+        "salary": 116620.17,
+        "is_active": true
+    },
+    {
+        "id": 76,
+        "name": "Daniel Olson",
+        "email": "bcarlson@example.com",
+        "address": "28019 Lozano Trafficway Suite 629\nAndreafurt, ID 40485",
+        "phone": "641.781.9742",
+        "date_of_birth": "2000-05-13",
+        "company": "Stephens, West and Harris",
+        "salary": 101471.25,
+        "is_active": true
+    },
+    {
+        "id": 77,
+        "name": "David Mcgee",
+        "email": "simmonsmichael@example.com",
+        "address": "812 Chavez Springs Apt. 039\nRivasshire, VT 97440",
+        "phone": "001-489-922-6198",
+        "date_of_birth": "1947-03-02",
+        "company": "Barker-Hayes",
+        "salary": 43465.97,
+        "is_active": true
+    },
+    {
+        "id": 78,
+        "name": "Lisa Moore",
+        "email": "michael89@example.com",
+        "address": "25972 Joseph Dam Suite 226\nKaylaburgh, ME 27267",
+        "phone": "594.843.6924x682",
+        "date_of_birth": "1991-10-09",
+        "company": "Miller, Stanley and Campbell",
+        "salary": 40980.21,
+        "is_active": true
+    },
+    {
+        "id": 79,
+        "name": "Rachel Wagner",
+        "email": "oknox@example.org",
+        "address": "51299 Arroyo Radial\nJustinside, AR 10369",
+        "phone": "696-210-3646x1440",
+        "date_of_birth": "1975-05-16",
+        "company": "Thomas Group",
+        "salary": 91566.2,
+        "is_active": false
+    },
+    {
+        "id": 80,
+        "name": "Valerie Cruz",
+        "email": "nlopez@example.net",
+        "address": "3623 Mcknight Vista Apt. 374\nNew Cynthiaview, VA 46437",
+        "phone": "(601)201-0708",
+        "date_of_birth": "1964-10-09",
+        "company": "Jacobs, Velasquez and Gross",
+        "salary": 76614.1,
+        "is_active": false
+    }
+]

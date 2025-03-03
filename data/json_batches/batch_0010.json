@@ -1,0 +1,112 @@
+[
+    {
+        "id": 91,
+        "name": "Brandon Huff",
+        "email": "kcummings@example.net",
+        "address": "359 Omar Overpass\nKatherinechester, MI 86050",
+        "phone": "001-556-410-1993x730",
+        "date_of_birth": "1971-11-20",
+        "company": "Perkins Ltd",
+        "salary": 70791.0,
+        "is_active": true
+    },
+    {
+        "id": 92,
+        "name": "Catherine Reynolds",
+        "email": "tcooke@example.com",
+        "address": "664 Ponce Route\nLake Jasonhaven, MP 67326",
+        "phone": "(895)426-1639x389",
+        "date_of_birth": "1984-02-12",
+        "company": "Robertson, Hayes and Stephens",
+        "salary": 78079.61,
+        "is_active": true
+    },
+    {
+        "id": 93,
+        "name": "Robert Perez",
+        "email": "jeremysalazar@example.com",
+        "address": "4392 Knight Ridge\nNew Sean, VA 60888",
+        "phone": "354-682-2161x229",
+        "date_of_birth": "1967-04-28",
+        "company": "Watkins, Johnson and Garcia",
+        "salary": 71021.76,
+        "is_active": true
+    },
+    {
+        "id": 94,
+        "name": "Brandi Norman",
+        "email": "dennismonique@example.com",
+        "address": "2408 Julie Ports Apt. 917\nRandallmouth, MA 81513",
+        "phone": "493-899-2695x355",
+        "date_of_birth": "1963-04-06",
+        "company": "Harris, Baker and Morrow",
+        "salary": 65859.77,
+        "is_active": true
+    },
+    {
+        "id": 95,
+        "name": "David Rich",
+        "email": "qmoore@example.com",
+        "address": "06405 Stephen Green\nOlsonmouth, PW 00807",
+        "phone": "287-571-5789x372",
+        "date_of_birth": "1948-10-30",
+        "company": "Cooper Inc",
+        "salary": 89636.08,
+        "is_active": true
+    },
+    {
+        "id": 96,
+        "name": "Matthew Knight",
+        "email": "imcdonald@example.com",
+        "address": "12524 French Villages\nBowmanburgh, PA 16623",
+        "phone": "740-355-8013x588",
+        "date_of_birth": "1946-07-27",
+        "company": "Chavez PLC",
+        "salary": 39811.72,
+        "is_active": false
+    },
+    {
+        "id": 97,
+        "name": "Carol Blair",
+        "email": "nbowen@example.com",
+        "address": "1248 Dana Circles Suite 779\nStephenland, UT 94514",
+        "phone": "001-527-767-8928x2380",
+        "date_of_birth": "1996-04-15",
+        "company": "Richard Ltd",
+        "salary": 76927.41,
+        "is_active": false
+    },
+    {
+        "id": 98,
+        "name": "Dillon Roberts",
+        "email": "richardsonjason@example.net",
+        "address": "099 Lewis Burgs Suite 095\nDaniellefurt, VT 45393",
+        "phone": "991.952.5896",
+        "date_of_birth": "1959-05-05",
+        "company": "Figueroa-Montgomery",
+        "salary": 100940.98,
+        "is_active": false
+    },
+    {
+        "id": 99,
+        "name": "Jessica Butler",
+        "email": "williamwood@example.org",
+        "address": "285 Brandon Spurs Apt. 927\nSouth Timothy, MD 03688",
+        "phone": "+1-462-673-4692x53341",
+        "date_of_birth": "1984-10-31",
+        "company": "Smith, Smith and Miller",
+        "salary": 38159.26,
+        "is_active": true
+    },
+    {
+        "id": 100,
+        "name": "Cindy Leblanc",
+        "email": "john12@example.com",
+        "address": "21155 Ferguson Lights\nBrandonport, MI 11403",
+        "phone": "001-643-249-7271x4171",
+        "date_of_birth": "1983-07-28",
+        "company": "Mitchell-Deleon",
+        "salary": 83159.33,
+        "is_active": true
+    }
+]
