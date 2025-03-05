@@ -1,2 +1,10 @@
+# minIO
 /minio/data/*
 !/minio/data/.gitkeep
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode cache
+__pycache__/
+*.pyc

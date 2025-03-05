@@ -14,7 +14,8 @@ services:
       - ./minio/data:/data
     command: server /data --console-address ":9001"
   jupyter-pyspark:
-    image: quay.io/jupyter/pyspark-notebook:8f03304445ec
+    build: 
+      dockerfile: pyspark-notebook.Dockerfile
     container_name: jupyter-pyspark
     ports:
       - "8888:8888"
