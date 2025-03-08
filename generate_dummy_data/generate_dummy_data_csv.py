@@ -16,7 +16,7 @@ for _ in range(num_records):
         "id": _ + 1,
         "name": fake.name(),
         "email": fake.email(),
-        "address": fake.address(),
+        "address": fake.address().replace("\n", ", "),  # Replace newline with comma and space
         "phone": fake.phone_number(),
         "date_of_birth": fake.date_of_birth(minimum_age=18, maximum_age=80).isoformat(),
         "company": fake.company(),

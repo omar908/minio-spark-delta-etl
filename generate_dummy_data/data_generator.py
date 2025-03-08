@@ -46,7 +46,7 @@ def write_json_batches(total_records=100, batch_size=10, output_folder="../data/
                 "id": batch_num * batch_size + _ + 1,
                 "name": fake.name(),
                 "email": fake.email(),
-                "address": fake.address(),
+                "address": fake.address().replace("\n", ", "),  # Replace newline with comma and space
                 "phone": fake.phone_number(),
                 "date_of_birth": fake.date_of_birth(minimum_age=18, maximum_age=80).isoformat(),
                 "company": fake.company(),
