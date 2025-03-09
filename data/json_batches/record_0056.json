@@ -1,0 +1,11 @@
+{
+    "id": 56,
+    "name": "Gary Berg",
+    "email": "pattersonjacob@example.org",
+    "address": "392 Mario Village, East Annashire, FL 78798",
+    "phone": "(555)847-1358",
+    "date_of_birth": "1954-07-03",
+    "company": "Alexander-Walker",
+    "salary": 93893.97,
+    "is_active": true
+}

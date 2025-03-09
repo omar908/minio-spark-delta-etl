@@ -1,0 +1,11 @@
+{
+    "id": 99,
+    "name": "David Simmons",
+    "email": "turnerdebbie@example.org",
+    "address": "08788 Lynn Squares Apt. 550, New Gabrielle, MS 84523",
+    "phone": "9713496027",
+    "date_of_birth": "1968-11-02",
+    "company": "Hill Inc",
+    "salary": 80171.7,
+    "is_active": true
+}

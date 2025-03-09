@@ -1,0 +1,11 @@
+{
+    "id": 3,
+    "name": "Erika Lawrence",
+    "email": "william71@example.org",
+    "address": "Unit 5722 Box 1042, DPO AA 34176",
+    "phone": "968-933-2634",
+    "date_of_birth": "1955-07-10",
+    "company": "Rivera, Tran and Porter",
+    "salary": 114787.08,
+    "is_active": true
+}

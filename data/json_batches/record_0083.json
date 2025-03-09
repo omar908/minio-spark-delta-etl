@@ -1,0 +1,11 @@
+{
+    "id": 83,
+    "name": "Sarah Hawkins",
+    "email": "melaniemartinez@example.org",
+    "address": "2444 John Ferry, New Michaelland, FM 99462",
+    "phone": "(948)580-5547",
+    "date_of_birth": "2004-11-21",
+    "company": "Perez-Gonzalez",
+    "salary": 57599.05,
+    "is_active": true
+}

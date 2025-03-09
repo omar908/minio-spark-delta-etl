@@ -1,0 +1,11 @@
+{
+    "id": 51,
+    "name": "Natalie Berry",
+    "email": "larrygates@example.org",
+    "address": "81602 Ronald Cove Apt. 865, Kellyhaven, OR 05711",
+    "phone": "236-466-4465",
+    "date_of_birth": "1989-02-28",
+    "company": "Lynch-Bass",
+    "salary": 65937.15,
+    "is_active": true
+}

@@ -1,0 +1,11 @@
+{
+    "id": 40,
+    "name": "Scott Bowman",
+    "email": "tsanchez@example.net",
+    "address": "740 Richard Villages, Lake Judith, NM 30323",
+    "phone": "5876388555",
+    "date_of_birth": "1965-09-10",
+    "company": "Wolfe, Curry and Brennan",
+    "salary": 46522.4,
+    "is_active": true
+}

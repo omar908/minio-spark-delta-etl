@@ -1,0 +1,11 @@
+{
+    "id": 22,
+    "name": "Douglas Jefferson",
+    "email": "stanleyoscar@example.net",
+    "address": "8695 John Parkway, Crawfordland, PW 14941",
+    "phone": "642-337-5488",
+    "date_of_birth": "1990-03-28",
+    "company": "Newman, Washington and Myers",
+    "salary": 86147.05,
+    "is_active": false
+}

@@ -1,0 +1,11 @@
+{
+    "id": 34,
+    "name": "Steven Yang",
+    "email": "xbender@example.com",
+    "address": "144 Danny Roads Apt. 307, Lake Stacyview, AS 78943",
+    "phone": "515.928.5861",
+    "date_of_birth": "2005-01-14",
+    "company": "Ryan PLC",
+    "salary": 82644.58,
+    "is_active": true
+}

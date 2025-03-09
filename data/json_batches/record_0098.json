@@ -1,0 +1,11 @@
+{
+    "id": 98,
+    "name": "Devon Stewart",
+    "email": "sduncan@example.net",
+    "address": "PSC 3939, Box 0270, APO AA 84568",
+    "phone": "(849)501-8232x8558",
+    "date_of_birth": "1995-08-07",
+    "company": "Roberts, Andrade and Perez",
+    "salary": 55471.38,
+    "is_active": false
+}

@@ -1,0 +1,11 @@
+{
+    "id": 28,
+    "name": "Monique Rodriguez",
+    "email": "huntermary@example.com",
+    "address": "2691 Morales Ports, Garrettstad, KY 95341",
+    "phone": "001-435-674-5490",
+    "date_of_birth": "2001-04-24",
+    "company": "Cisneros PLC",
+    "salary": 45625.01,
+    "is_active": true
+}

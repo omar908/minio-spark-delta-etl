@@ -1,0 +1,11 @@
+{
+    "id": 39,
+    "name": "Christine Williams",
+    "email": "ysmith@example.com",
+    "address": "195 Pruitt Forks Suite 376, Ethanshire, MN 83559",
+    "phone": "(307)523-7602x41364",
+    "date_of_birth": "2002-10-19",
+    "company": "Jones, Jones and Morgan",
+    "salary": 80278.13,
+    "is_active": true
+}

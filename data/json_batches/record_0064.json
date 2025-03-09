@@ -1,0 +1,11 @@
+{
+    "id": 64,
+    "name": "Luis Dixon",
+    "email": "ojohnson@example.net",
+    "address": "37711 Mitchell Courts Apt. 543, Leslieland, OR 73339",
+    "phone": "7463313394",
+    "date_of_birth": "1945-12-24",
+    "company": "Jones, Dunn and Flowers",
+    "salary": 88261.26,
+    "is_active": false
+}

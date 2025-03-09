@@ -1,0 +1,11 @@
+{
+    "id": 26,
+    "name": "Elizabeth Smith",
+    "email": "william52@example.com",
+    "address": "USS Noble, FPO AP 97347",
+    "phone": "610-785-4562x06810",
+    "date_of_birth": "1989-06-24",
+    "company": "Johnson-Marquez",
+    "salary": 37873.59,
+    "is_active": true
+}

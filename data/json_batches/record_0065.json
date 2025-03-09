@@ -1,0 +1,11 @@
+{
+    "id": 65,
+    "name": "Jeffrey Fischer",
+    "email": "tara94@example.com",
+    "address": "709 Dean Drive Suite 865, Port Thomashaven, LA 04221",
+    "phone": "432-433-0723x787",
+    "date_of_birth": "1952-05-05",
+    "company": "Taylor, Parker and Martinez",
+    "salary": 50781.74,
+    "is_active": false
+}

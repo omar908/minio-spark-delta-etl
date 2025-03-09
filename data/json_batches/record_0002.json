@@ -1,0 +1,11 @@
+{
+    "id": 2,
+    "name": "James Salinas",
+    "email": "ashleyanderson@example.com",
+    "address": "6147 Sullivan Stream Suite 376, Danieltown, ND 76879",
+    "phone": "(454)228-1834x8315",
+    "date_of_birth": "1992-05-14",
+    "company": "Long Group",
+    "salary": 51729.12,
+    "is_active": true
+}

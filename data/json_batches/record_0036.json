@@ -1,0 +1,11 @@
+{
+    "id": 36,
+    "name": "Karen Duffy",
+    "email": "meganmoore@example.com",
+    "address": "8399 Shaw Cliff, Port Christianfurt, WA 93610",
+    "phone": "(897)873-9762",
+    "date_of_birth": "1945-06-20",
+    "company": "Gibson and Sons",
+    "salary": 90893.55,
+    "is_active": false
+}

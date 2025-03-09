@@ -1,0 +1,11 @@
+{
+    "id": 23,
+    "name": "Danielle Barton",
+    "email": "lanenicole@example.com",
+    "address": "6890 Amy Terrace, Christopherburgh, PR 14844",
+    "phone": "9525440307",
+    "date_of_birth": "1962-10-21",
+    "company": "Martinez Inc",
+    "salary": 60139.66,
+    "is_active": false
+}

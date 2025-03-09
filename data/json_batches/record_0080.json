@@ -1,0 +1,11 @@
+{
+    "id": 80,
+    "name": "Dean Sanchez",
+    "email": "charles87@example.org",
+    "address": "PSC 4180, Box 5858, APO AE 20160",
+    "phone": "+1-200-428-6475",
+    "date_of_birth": "1957-09-20",
+    "company": "West-Davis",
+    "salary": 118827.74,
+    "is_active": true
+}

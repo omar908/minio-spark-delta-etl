@@ -1,0 +1,11 @@
+{
+    "id": 31,
+    "name": "Kimberly Peck",
+    "email": "gabriella19@example.net",
+    "address": "576 Cody River Apt. 628, Leemouth, DE 81548",
+    "phone": "889.543.0824",
+    "date_of_birth": "1971-09-01",
+    "company": "Aguilar, Boyle and Rios",
+    "salary": 39743.23,
+    "is_active": true
+}

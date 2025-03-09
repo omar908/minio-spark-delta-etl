@@ -1,0 +1,11 @@
+{
+    "id": 57,
+    "name": "Mary Werner",
+    "email": "choward@example.com",
+    "address": "684 Valentine Crossing, Laurenchester, NE 11734",
+    "phone": "713-358-3638x73812",
+    "date_of_birth": "1999-04-30",
+    "company": "Mitchell-Smith",
+    "salary": 42554.37,
+    "is_active": false
+}

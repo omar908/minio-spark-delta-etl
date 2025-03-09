@@ -1,0 +1,11 @@
+{
+    "id": 9,
+    "name": "Jennifer Padilla",
+    "email": "brandontucker@example.org",
+    "address": "5765 Baxter Points, Gallaghermouth, MH 58212",
+    "phone": "449-600-9808",
+    "date_of_birth": "1948-02-13",
+    "company": "Hall-Ramsey",
+    "salary": 116646.42,
+    "is_active": false
+}

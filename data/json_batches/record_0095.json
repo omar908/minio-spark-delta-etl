@@ -1,0 +1,11 @@
+{
+    "id": 95,
+    "name": "David Fields",
+    "email": "mcfarlandallison@example.com",
+    "address": "53184 Glover Ridge Apt. 982, West Patricia, TX 96662",
+    "phone": "400-287-6466",
+    "date_of_birth": "1997-01-02",
+    "company": "Brown-Diaz",
+    "salary": 92648.2,
+    "is_active": false
+}

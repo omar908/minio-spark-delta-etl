@@ -1,0 +1,11 @@
+{
+    "id": 32,
+    "name": "Christina Hall",
+    "email": "lbrooks@example.org",
+    "address": "280 Thomas Rapid Apt. 782, East Christinaborough, NJ 12053",
+    "phone": "490.807.4626x436",
+    "date_of_birth": "1976-08-28",
+    "company": "Wallace Group",
+    "salary": 86606.21,
+    "is_active": true
+}

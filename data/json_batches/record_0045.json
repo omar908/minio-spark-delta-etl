@@ -1,0 +1,11 @@
+{
+    "id": 45,
+    "name": "Sara Ayers",
+    "email": "pwright@example.net",
+    "address": "9541 Carter Turnpike, East Melissabury, FM 64310",
+    "phone": "001-745-396-5001x424",
+    "date_of_birth": "1997-06-14",
+    "company": "Young PLC",
+    "salary": 64535.65,
+    "is_active": true
+}

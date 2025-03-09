@@ -1,0 +1,11 @@
+{
+    "id": 12,
+    "name": "Linda Stone",
+    "email": "bjackson@example.com",
+    "address": "3933 Meyer Ports Suite 581, Escobarside, KY 87100",
+    "phone": "6604161609",
+    "date_of_birth": "1963-12-12",
+    "company": "Brooks, Miller and Welch",
+    "salary": 109674.55,
+    "is_active": false
+}

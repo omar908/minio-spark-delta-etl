@@ -1,0 +1,11 @@
+{
+    "id": 50,
+    "name": "Jessica Patterson",
+    "email": "daybrian@example.org",
+    "address": "80561 Valentine Summit Suite 239, Jacksonview, KS 84400",
+    "phone": "+1-498-245-3451x83078",
+    "date_of_birth": "1977-08-26",
+    "company": "Rocha-Woods",
+    "salary": 74890.14,
+    "is_active": false
+}

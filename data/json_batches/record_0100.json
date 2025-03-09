@@ -1,0 +1,11 @@
+{
+    "id": 100,
+    "name": "John Tyler",
+    "email": "zlowe@example.net",
+    "address": "79142 Parsons View, Jaredport, OH 07629",
+    "phone": "656-966-1741",
+    "date_of_birth": "1975-01-24",
+    "company": "Perez, Haynes and Lyons",
+    "salary": 67160.59,
+    "is_active": true
+}

@@ -1,0 +1,11 @@
+{
+    "id": 27,
+    "name": "Mr. Jason Smith",
+    "email": "laurawilliams@example.org",
+    "address": "06990 Benjamin Inlet Apt. 965, Jaredmouth, UT 07453",
+    "phone": "6248502817",
+    "date_of_birth": "1972-05-26",
+    "company": "Meza-Torres",
+    "salary": 61480.89,
+    "is_active": true
+}

@@ -1,0 +1,11 @@
+{
+    "id": 20,
+    "name": "Jeffrey Williams",
+    "email": "debrajordan@example.net",
+    "address": "115 Katie Vista, Ashleyton, ND 73366",
+    "phone": "641-957-4213x609",
+    "date_of_birth": "1947-08-28",
+    "company": "Keller-Mitchell",
+    "salary": 109313.85,
+    "is_active": false
+}

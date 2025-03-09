@@ -1,0 +1,11 @@
+{
+    "id": 42,
+    "name": "Ryan Warner",
+    "email": "zacharycopeland@example.com",
+    "address": "962 Erin Hill, East James, UT 15220",
+    "phone": "(567)672-6866",
+    "date_of_birth": "1974-09-23",
+    "company": "Romero-Merritt",
+    "salary": 55659.49,
+    "is_active": true
+}

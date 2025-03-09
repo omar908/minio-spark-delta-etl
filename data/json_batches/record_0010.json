@@ -1,0 +1,11 @@
+{
+    "id": 10,
+    "name": "Robert Allen",
+    "email": "johnathanjones@example.org",
+    "address": "182 Pearson Vista, South Kathy, IN 33929",
+    "phone": "+1-671-444-6734x8932",
+    "date_of_birth": "2000-10-08",
+    "company": "Martin Inc",
+    "salary": 88007.66,
+    "is_active": false
+}

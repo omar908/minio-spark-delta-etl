@@ -1,0 +1,11 @@
+{
+    "id": 48,
+    "name": "Alicia Bell",
+    "email": "adamsmonica@example.net",
+    "address": "13228 Thomas Crossroad, Lake Ronald, MN 42740",
+    "phone": "(598)560-3848",
+    "date_of_birth": "1954-01-31",
+    "company": "Johnson LLC",
+    "salary": 55979.02,
+    "is_active": true
+}

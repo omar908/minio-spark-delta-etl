@@ -1,0 +1,11 @@
+{
+    "id": 70,
+    "name": "Danny Sanchez",
+    "email": "harry59@example.org",
+    "address": "Unit 8023 Box 8842, DPO AE 54099",
+    "phone": "705.782.4416",
+    "date_of_birth": "2005-10-23",
+    "company": "Keller-Martin",
+    "salary": 94449.5,
+    "is_active": false
+}

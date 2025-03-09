@@ -1,0 +1,11 @@
+{
+    "id": 92,
+    "name": "Marie Peterson",
+    "email": "imiller@example.org",
+    "address": "45616 Jeffery Plain, Christyshire, GU 69253",
+    "phone": "(757)746-0192x94059",
+    "date_of_birth": "1964-09-08",
+    "company": "Wright, Gray and Powers",
+    "salary": 111072.76,
+    "is_active": false
+}

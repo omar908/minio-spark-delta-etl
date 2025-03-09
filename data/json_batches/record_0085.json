@@ -1,0 +1,11 @@
+{
+    "id": 85,
+    "name": "Daniel Shea",
+    "email": "tdaniel@example.com",
+    "address": "524 Thomas Hill, Stevensonborough, NE 44616",
+    "phone": "746.708.6920",
+    "date_of_birth": "1970-10-27",
+    "company": "Sanders, Rios and Smith",
+    "salary": 86691.07,
+    "is_active": false
+}

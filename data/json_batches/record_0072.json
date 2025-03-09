@@ -1,0 +1,11 @@
+{
+    "id": 72,
+    "name": "William Gates",
+    "email": "grichardson@example.com",
+    "address": "936 King Mountain Suite 173, South Andrew, NJ 75223",
+    "phone": "279-520-2887",
+    "date_of_birth": "1989-07-03",
+    "company": "Hickman-Woodard",
+    "salary": 100031.96,
+    "is_active": false
+}

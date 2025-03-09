@@ -1,0 +1,11 @@
+{
+    "id": 90,
+    "name": "Erin Murray",
+    "email": "kristinashaw@example.com",
+    "address": "4554 Tina Highway Suite 600, Rojasbury, AK 83042",
+    "phone": "(308)556-6585x3779",
+    "date_of_birth": "1989-03-18",
+    "company": "Waller PLC",
+    "salary": 93931.85,
+    "is_active": false
+}

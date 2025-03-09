@@ -1,0 +1,11 @@
+{
+    "id": 41,
+    "name": "Christopher Vazquez",
+    "email": "jacobramos@example.org",
+    "address": "1214 Andrea Harbor Apt. 799, Port Robinmouth, NV 67248",
+    "phone": "289.574.4719x5608",
+    "date_of_birth": "1960-12-30",
+    "company": "Fields-Gay",
+    "salary": 74402.78,
+    "is_active": false
+}

@@ -1,0 +1,11 @@
+{
+    "id": 97,
+    "name": "Kristina Novak",
+    "email": "adam55@example.org",
+    "address": "5293 Robinson Lock, Adamland, CA 19142",
+    "phone": "001-769-393-3520",
+    "date_of_birth": "1956-06-15",
+    "company": "Smith PLC",
+    "salary": 30738.01,
+    "is_active": false
+}

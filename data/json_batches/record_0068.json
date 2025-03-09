@@ -1,0 +1,11 @@
+{
+    "id": 68,
+    "name": "Tonya Norris",
+    "email": "sierra38@example.com",
+    "address": "Unit 5992 Box 0410, DPO AA 43357",
+    "phone": "7396792294",
+    "date_of_birth": "1994-08-05",
+    "company": "Reynolds LLC",
+    "salary": 62831.88,
+    "is_active": false
+}

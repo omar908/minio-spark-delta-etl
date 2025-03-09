@@ -1,0 +1,11 @@
+{
+    "id": 21,
+    "name": "Eric Martin",
+    "email": "brandywalsh@example.com",
+    "address": "391 Collins Tunnel, North Kelsey, IN 52859",
+    "phone": "(533)360-6646x628",
+    "date_of_birth": "1971-05-14",
+    "company": "Bailey-Smith",
+    "salary": 65686.54,
+    "is_active": true
+}

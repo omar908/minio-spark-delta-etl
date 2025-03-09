@@ -1,0 +1,11 @@
+{
+    "id": 63,
+    "name": "Craig Marshall",
+    "email": "ndavis@example.org",
+    "address": "5697 Berry Village, Hillmouth, OK 42328",
+    "phone": "415-745-9655x05655",
+    "date_of_birth": "1994-08-21",
+    "company": "Harris, Odonnell and Gibson",
+    "salary": 92935.56,
+    "is_active": false
+}

@@ -1,0 +1,11 @@
+{
+    "id": 93,
+    "name": "Joseph Smith",
+    "email": "catherine53@example.org",
+    "address": "1747 Christine Circles, Mayochester, CO 14707",
+    "phone": "248.371.2028",
+    "date_of_birth": "1973-09-04",
+    "company": "Lee PLC",
+    "salary": 61473.74,
+    "is_active": true
+}

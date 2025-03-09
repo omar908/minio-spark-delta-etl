@@ -1,0 +1,11 @@
+{
+    "id": 52,
+    "name": "Shawn Hall",
+    "email": "watkinsjessica@example.com",
+    "address": "PSC 1053, Box 5786, APO AA 09845",
+    "phone": "(740)927-1081",
+    "date_of_birth": "1973-12-31",
+    "company": "Sawyer-Hawkins",
+    "salary": 40803.95,
+    "is_active": false
+}

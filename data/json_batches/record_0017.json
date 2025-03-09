@@ -1,0 +1,11 @@
+{
+    "id": 17,
+    "name": "Sharon Holt",
+    "email": "jodylee@example.org",
+    "address": "564 Angela Mission Suite 421, Marshallshire, ME 28450",
+    "phone": "+1-436-582-6329",
+    "date_of_birth": "1988-01-25",
+    "company": "Thornton-Ryan",
+    "salary": 30272.98,
+    "is_active": true
+}

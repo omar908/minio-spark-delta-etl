@@ -1,0 +1,11 @@
+{
+    "id": 30,
+    "name": "James Perez",
+    "email": "sherrymorrison@example.com",
+    "address": "378 David Haven, Garzaville, CO 97306",
+    "phone": "+1-534-584-5433",
+    "date_of_birth": "1989-10-19",
+    "company": "Smith-Miller",
+    "salary": 82677.9,
+    "is_active": false
+}

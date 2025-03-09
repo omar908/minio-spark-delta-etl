@@ -1,0 +1,11 @@
+{
+    "id": 8,
+    "name": "Rebecca Thomas",
+    "email": "qwilson@example.org",
+    "address": "881 Carey Bypass, Danielburgh, LA 61161",
+    "phone": "001-567-497-4362x09367",
+    "date_of_birth": "1997-04-08",
+    "company": "Peterson LLC",
+    "salary": 70084.35,
+    "is_active": false
+}

@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "name": "Steven Ellis",
+    "email": "rodgersedward@example.org",
+    "address": "1991 Morris Stravenue, South Stevenmouth, UT 83778",
+    "phone": "310-273-6593x1931",
+    "date_of_birth": "1950-05-13",
+    "company": "Marks, Mason and Hill",
+    "salary": 94927.1,
+    "is_active": false
+}

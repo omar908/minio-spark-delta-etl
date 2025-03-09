@@ -1,0 +1,11 @@
+{
+    "id": 29,
+    "name": "Cody May",
+    "email": "enguyen@example.com",
+    "address": "67029 Lowe Radial Suite 529, North Brian, GA 21688",
+    "phone": "(336)290-0138",
+    "date_of_birth": "1952-04-19",
+    "company": "Cameron LLC",
+    "salary": 116498.01,
+    "is_active": true
+}

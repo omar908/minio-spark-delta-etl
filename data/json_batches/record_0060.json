@@ -1,0 +1,11 @@
+{
+    "id": 60,
+    "name": "Diane Mitchell",
+    "email": "ugrant@example.net",
+    "address": "5246 Natasha Lodge Apt. 065, Port Matthew, TX 72125",
+    "phone": "+1-762-285-0937",
+    "date_of_birth": "2001-01-19",
+    "company": "Morton, Cooke and Scott",
+    "salary": 111638.53,
+    "is_active": true
+}

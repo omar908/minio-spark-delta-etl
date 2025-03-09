@@ -1,0 +1,11 @@
+{
+    "id": 88,
+    "name": "William Graham",
+    "email": "ytucker@example.net",
+    "address": "0761 Walker Expressway, Paulaborough, IL 63467",
+    "phone": "802.429.7873x797",
+    "date_of_birth": "1994-04-01",
+    "company": "Morse-Mahoney",
+    "salary": 48989.0,
+    "is_active": true
+}

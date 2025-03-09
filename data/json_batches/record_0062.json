@@ -1,0 +1,11 @@
+{
+    "id": 62,
+    "name": "David Clark",
+    "email": "hmartin@example.org",
+    "address": "949 Alexander Viaduct Suite 423, Lake Theresa, DC 15912",
+    "phone": "+1-991-754-0926",
+    "date_of_birth": "1954-08-30",
+    "company": "Anderson Ltd",
+    "salary": 106836.24,
+    "is_active": true
+}

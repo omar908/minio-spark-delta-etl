@@ -1,0 +1,11 @@
+{
+    "id": 46,
+    "name": "Michael Vasquez",
+    "email": "dale09@example.net",
+    "address": "132 Lyons Squares Suite 687, Port Savannahtown, GA 78786",
+    "phone": "217.700.2543",
+    "date_of_birth": "1976-06-29",
+    "company": "Fowler LLC",
+    "salary": 89794.51,
+    "is_active": false
+}

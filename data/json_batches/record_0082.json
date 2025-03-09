@@ -1,0 +1,11 @@
+{
+    "id": 82,
+    "name": "William Martin",
+    "email": "thomasrobinson@example.net",
+    "address": "8060 Herrera Square Apt. 581, Lake Meghan, AZ 93027",
+    "phone": "831-442-7091",
+    "date_of_birth": "1971-06-15",
+    "company": "Wood, Forbes and Williams",
+    "salary": 32602.01,
+    "is_active": false
+}

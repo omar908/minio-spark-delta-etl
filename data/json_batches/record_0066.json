@@ -1,0 +1,11 @@
+{
+    "id": 66,
+    "name": "Melissa Smith",
+    "email": "thomasweaver@example.com",
+    "address": "783 Turner Greens Apt. 526, New Debra, PR 86317",
+    "phone": "585.523.1851x760",
+    "date_of_birth": "1949-08-31",
+    "company": "Franklin LLC",
+    "salary": 39708.18,
+    "is_active": true
+}

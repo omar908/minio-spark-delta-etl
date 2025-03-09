@@ -1,0 +1,11 @@
+{
+    "id": 81,
+    "name": "Angela Parker",
+    "email": "simswesley@example.org",
+    "address": "29349 Brown Terrace, West Sharon, AR 59895",
+    "phone": "(603)799-0268x084",
+    "date_of_birth": "1993-11-27",
+    "company": "Sullivan, Brown and Newton",
+    "salary": 41156.86,
+    "is_active": true
+}

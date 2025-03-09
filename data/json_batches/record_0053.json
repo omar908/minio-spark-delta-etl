@@ -1,0 +1,11 @@
+{
+    "id": 53,
+    "name": "Tom Silva",
+    "email": "oburke@example.com",
+    "address": "2410 Ramsey Vista Apt. 648, Joefurt, WI 53099",
+    "phone": "001-304-977-7428",
+    "date_of_birth": "1954-11-26",
+    "company": "Downs and Sons",
+    "salary": 45864.49,
+    "is_active": false
+}

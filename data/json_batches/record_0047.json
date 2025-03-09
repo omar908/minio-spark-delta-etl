@@ -1,0 +1,11 @@
+{
+    "id": 47,
+    "name": "Rose Wood",
+    "email": "stevenrodriguez@example.com",
+    "address": "USNS Jordan, FPO AE 29207",
+    "phone": "(665)435-6443x22423",
+    "date_of_birth": "1990-06-14",
+    "company": "Cook-Johnson",
+    "salary": 86197.23,
+    "is_active": true
+}

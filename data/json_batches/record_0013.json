@@ -1,0 +1,11 @@
+{
+    "id": 13,
+    "name": "Curtis Duncan",
+    "email": "johnmccormick@example.net",
+    "address": "764 Mosley Crescent Apt. 534, Albertburgh, DE 84952",
+    "phone": "251.575.4894x8946",
+    "date_of_birth": "1980-10-04",
+    "company": "Roberts-Garza",
+    "salary": 64661.13,
+    "is_active": false
+}

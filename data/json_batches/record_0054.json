@@ -1,0 +1,11 @@
+{
+    "id": 54,
+    "name": "Grant Jackson",
+    "email": "yyoung@example.com",
+    "address": "PSC 1143, Box 2856, APO AA 33248",
+    "phone": "+1-615-813-4550x186",
+    "date_of_birth": "1995-03-31",
+    "company": "Rodriguez, Bruce and Hubbard",
+    "salary": 37470.44,
+    "is_active": true
+}

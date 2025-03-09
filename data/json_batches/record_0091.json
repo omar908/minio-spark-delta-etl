@@ -1,0 +1,11 @@
+{
+    "id": 91,
+    "name": "Michael Lopez",
+    "email": "padilladavid@example.net",
+    "address": "8586 Timothy Lodge, East Brandon, NC 93948",
+    "phone": "2749565337",
+    "date_of_birth": "1990-10-31",
+    "company": "Ross Group",
+    "salary": 107703.48,
+    "is_active": false
+}

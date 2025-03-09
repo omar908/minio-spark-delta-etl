@@ -1,0 +1,11 @@
+{
+    "id": 94,
+    "name": "Sarah Smith",
+    "email": "nicholas85@example.org",
+    "address": "0565 Chan Road, West Aarontown, OR 09979",
+    "phone": "(238)353-0997x774",
+    "date_of_birth": "2003-06-14",
+    "company": "Harris PLC",
+    "salary": 109027.23,
+    "is_active": false
+}

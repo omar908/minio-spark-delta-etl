@@ -1,0 +1,11 @@
+{
+    "id": 33,
+    "name": "Rachel Patterson",
+    "email": "qgraham@example.com",
+    "address": "923 Landry Light Apt. 406, Rebeccaville, NC 20778",
+    "phone": "(490)255-7519",
+    "date_of_birth": "1994-05-25",
+    "company": "Schroeder, Moreno and Patrick",
+    "salary": 100314.35,
+    "is_active": true
+}

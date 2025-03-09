@@ -1,0 +1,11 @@
+{
+    "id": 69,
+    "name": "Belinda Klein",
+    "email": "rileyrobert@example.net",
+    "address": "Unit 2041 Box 2950, DPO AA 73595",
+    "phone": "(865)550-3682x6262",
+    "date_of_birth": "2001-12-19",
+    "company": "Mcknight, Strickland and Gonzalez",
+    "salary": 99287.32,
+    "is_active": false
+}

@@ -1,0 +1,11 @@
+{
+    "id": 7,
+    "name": "Donald Alvarez",
+    "email": "jonathanhall@example.com",
+    "address": "Unit 0838 Box 9016, DPO AP 66934",
+    "phone": "001-921-395-3172",
+    "date_of_birth": "1975-01-22",
+    "company": "Garcia-Jones",
+    "salary": 68472.61,
+    "is_active": false
+}
